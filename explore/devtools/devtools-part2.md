@@ -1,0 +1,2 @@
+1. The function was reading the variables num 1 and num2 as strings and it was concatinating them instead of adding them
+2. I surrounded the variables with parseFloat so that the function reads the variables as numbers rather than strings
